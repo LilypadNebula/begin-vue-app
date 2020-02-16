@@ -7,6 +7,7 @@ folder dist
 @http
 get /api
 get /boop
+post /boop
 
 @tables
 data
